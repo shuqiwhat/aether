@@ -23,7 +23,11 @@
 
 ---
 
-Aether is a modern, open-source Markdown editor with AI-powered Ghost Writing. Think Typora meets GitHub Copilot — a distraction-free writing experience with real-time AI suggestions that flow naturally as you type.
+---
+
+Aether is an open-source Markdown editor with AI-assisted writing. The goal is to provide a focused and fluid writing experience.
+
+> ⚠️ **Note**: This project is currently in **early development**. Bugs and missing features are expected. Please use with caution and backup your data.
 
 <p align="center">
   <a href="https://github.com/shuqiwhat/aether/releases"><strong>👉 Download the latest release</strong></a>
@@ -82,9 +86,14 @@ Download the latest `.dmg` (macOS) or `.exe` (Windows) from [Releases](https://g
 | Accept Ghost    | `Tab` | `Tab`         |
 | Dismiss Ghost   | `Esc` | `Esc`         |
 
-## Feedback
+## Feedback & Contact
 
-Feedback is welcome! Please open an issue if you encounter any bugs or have feature requests.
+This project is currently maintained by an individual (Shuqi Wang). resources are limited.
+
+- **Bug Reports / Features**: [Issues](https://github.com/shuqiwhat/aether/issues) and Pull Requests are welcome.
+- **Email**: For other inquiries: `shuqiwhat@gmail.com`.
+
+Thank you for trying out Aether!
 
 ## Star History
 
