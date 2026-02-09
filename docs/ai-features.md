@@ -1,29 +1,29 @@
-# AI 幽灵写作 (Ghost Writing)
+# Ghost Writing
 
-Aether 的核心功能是“幽灵写作” — 一种旨在不打断你心流的 AI 辅助写作体验。
+Aether's core feature is "Ghost Writing" — an AI-assisted writing experience designed to keep you in the flow.
 
-## 什么是幽灵写作？
+## What is Ghost Writing?
 
-与传统的 Chatbot（聊天机器人）不同，幽灵写作不需要你停下来与 AI 对话。它就像一个隐形的合作者，在你写作的过程中，静静地观察上下文，并在你停顿思考时，试探性地给出建议。
+Unlike traditional chatbots, Ghost Writing doesn't require you to stop and converse with an AI. It acts as an invisible collaborator, silently observing your context as you write and tentatively offering suggestions when you pause.
 
-## 如何使用
+## How to Use
 
-1.  **开始写作**：像往常一样在编辑器中打字。
-2.  **自然停顿**：当你写到一半，或者敲下回车换行时，稍作停顿。
-3.  **获取建议**：AI 会根据上文，以灰色文字（Ghost Text）的形式显示建议内容。
-4.  **接受/忽略**：
-    *   按 <kbd>Tab</kbd> 键：**接受**建议（建议文字变为实体）。
-    *   继续打字或按 <kbd>Esc</kbd>：**忽略**建议（建议文字消失）。
+1.  **Start Writing**: Type in the editor as you normally would.
+2.  **Pause Naturally**: When you're mid-sentence or hit enter for a new line, pause briefly.
+3.  **Get Suggestions**: The AI will display a suggestion as gray "Ghost Text" based on the context.
+4.  **Accept/Ignore**:
+    *   Press <kbd>Tab</kbd>: **Accept** the suggestion (it becomes real text).
+    *   Keep typing or press <kbd>Esc</kbd>: **Ignore** the suggestion (it disappears).
 
-## 设置 AI 提供商
+## Setting Up AI Providers
 
-在 `设置` -> `幽灵写作` 中，你可以选择不同的 AI 模型：
+Go to `Settings` -> `Ghost Writer` to choose your AI model:
 
-*   **OpenAI / Claude**：需要 API Key，提供最强大的写作能力。
-*   **Ollama**：支持本地运行模型（如 Llama 3, Mistral），完全免费且隐私安全，不需要联网。
+*   **OpenAI / Claude**: Requires an API Key. Provides the most powerful writing capabilities.
+*   **Ollama**: Supports local models (like Llama 3, Mistral). Completely free, private, and offline.
 
-## 最佳实践
+## Best Practices
 
-*   **作为灵感补充**：当你卡文时，停下来看看 AI 会写什么，往往能给你新的思路。
-*   **快速扩写**：列出大纲要点，让 AI 帮你完善段落细节。
-*   **翻译与润色**：你可以写一段中文，起个头让 AI 翻译成英文；或者写一段草稿，让 AI 帮你润色。
+*   **Inspiration Booster**: When you're stuck, pause and see what the AI suggests. It often sparks new ideas.
+*   **Quick Expansion**: List your outline points and let the AI help fill in the paragraph details.
+*   **Translation & Polishing**: Write a sentence in your native language and let the AI suggest the English translation, or write a draft and let it polish the tone.

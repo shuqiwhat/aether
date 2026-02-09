@@ -1,45 +1,45 @@
-# 键盘快捷键 (Keyboard Shortcuts)
+# Keyboard Shortcuts
 
-Aether 遵循“键盘优先”的设计理念，绝大多数操作都可以通过快捷键完成，让你双手不离键盘即可完成写作与排版。
+Aether follows a "Keyboard-First" design philosophy. Most operations can be completed via shortcuts, allowing you to write and format without your hands leaving the keyboard.
 
-## 常用操作
+## Common Actions
 
-| 动作           | macOS     | Windows/Linux | 说明                                 |
-| :------------- | :-------- | :------------ | :----------------------------------- |
-| **保存文件**   | `Cmd + S` | `Ctrl + S`    | 随时保存你的进度                     |
-| **快速打开**   | `Cmd + P` | `Ctrl + P`    | 模糊搜索并打开工作区内的文件         |
-| **新建文件**   | `Cmd + N` | `Ctrl + N`    | 创建一个新的 Markdown 文档           |
-| **切换侧边栏** | `Cmd + \` | `Ctrl + \`    | 显示/隐藏文件树侧边栏                |
-| **源码模式**   | `Cmd + /` | `Ctrl + /`    | 在所见即所得和 Markdown 源码之间切换 |
+| Action             | macOS     | Windows/Linux | Description                                |
+| :----------------- | :-------- | :------------ | :----------------------------------------- |
+| **Save File**      | `Cmd + S` | `Ctrl + S`    | Save your progress anytime                 |
+| **Quick Open**     | `Cmd + P` | `Ctrl + P`    | Fuzzy search and open files in workspace   |
+| **New File**       | `Cmd + N` | `Ctrl + N`    | Create a new Markdown document             |
+| **Toggle Sidebar** | `Cmd + \` | `Ctrl + \`    | Show/Hide the file tree sidebar            |
+| **Source Mode**    | `Cmd + /` | `Ctrl + /`    | Toggle between WYSIWYG and Markdown Source |
 
-## 格式排版
+## Formatting
 
-| 动作             | macOS                   | Windows/Linux             |
-| :--------------- | :---------------------- | :------------------------ |
-| **加粗**         | `Cmd + B`               | `Ctrl + B`                |
-| **斜体**         | `Cmd + I`               | `Ctrl + I`                |
-| **标题 1-6**     | `Cmd + 1` ... `Cmd + 6` | `Ctrl + 1` ... `Ctrl + 6` |
-| **段落文本**     | `Cmd + 0`               | `Ctrl + 0`                |
-| **引用**         | `Cmd + Opt + Q`         | `Ctrl + Alt + Q`          |
-| **代码块**       | `Cmd + Opt + C`         | `Ctrl + Alt + C`          |
-| **插入数学公式** | `Cmd + Opt + B`         | `Ctrl + Alt + B`          |
-| **无序列表**     | `-` + `Space`           | `-` + `Space`             |
-| **有序列表**     | `1.` + `Space`          | `1.` + `Space`            |
-| **任务列表**     | `[]` + `Space`          | `[]` + `Space`            |
+| Action             | macOS                   | Windows/Linux             |
+| :----------------- | :---------------------- | :------------------------ |
+| **Bold**           | `Cmd + B`               | `Ctrl + B`                |
+| **Italic**         | `Cmd + I`               | `Ctrl + I`                |
+| **Heading 1-6**    | `Cmd + 1` ... `Cmd + 6` | `Ctrl + 1` ... `Ctrl + 6` |
+| **Paragraph**      | `Cmd + 0`               | `Ctrl + 0`                |
+| **Quote**          | `Cmd + Opt + Q`         | `Ctrl + Alt + Q`          |
+| **Code Block**     | `Cmd + Opt + C`         | `Ctrl + Alt + C`          |
+| **Math Block**     | `Cmd + Opt + B`         | `Ctrl + Alt + B`          |
+| **Unordered List** | `-` + `Space`           | `-` + `Space`             |
+| **Ordered List**   | `1.` + `Space`          | `1.` + `Space`            |
+| **Task List**      | `[]` + `Space`          | `[]` + `Space`            |
 
-## 幽灵写作 (AI)
+## Ghost Writing (AI)
 
-| 动作         | 快捷键                       |
-| :----------- | :--------------------------- |
-| **接受建议** | `Tab`                        |
-| **忽略建议** | `Esc` (或继续打字)           |
-| **手动触发** | (在设置中可配置延迟自动触发) |
+| Action                | Shortcut                         |
+| :-------------------- | :------------------------------- |
+| **Accept Suggestion** | `Tab`                            |
+| **Ignore Suggestion** | `Esc` (or keep typing)           |
+| **Manual Trigger**    | (Configurable delay in settings) |
 
-## 视图控制
+## View Control
 
-| 动作           | macOS     | Windows/Linux |
-| :------------- | :-------- | :------------ |
-| **放大**       | `Cmd + =` | `Ctrl + =`    |
-| **缩小**       | `Cmd + -` | `Ctrl + -`    |
-| **专注模式**   | `F8`      | `F8`          |
-| **打字机模式** | `F9`      | `F9`          |
+| Action              | macOS     | Windows/Linux |
+| :------------------ | :-------- | :------------ |
+| **Zoom In**         | `Cmd + =` | `Ctrl + =`    |
+| **Zoom Out**        | `Cmd + -` | `Ctrl + -`    |
+| **Focus Mode**      | `F8`      | `F8`          |
+| **Typewriter Mode** | `F9`      | `F9`          |
