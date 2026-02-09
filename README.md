@@ -35,14 +35,14 @@ Aether is an open-source Markdown editor with AI-assisted writing. The goal is t
 
 ## Features
 
-- ✍️ **Ghost Writing** — Real-time AI completions that appear as you pause, accept with Tab
+- ✍️ **Ghost Writing** — Real-time AI completions that appear as you pause, accept with Tab ([Learn more](docs/ai-features.md))
 - 📝 **WYSIWYG Markdown** — True what-you-see-is-what-you-get with Tiptap, toggle source mode anytime
 - 🎨 **Beautiful Themes** — Built-in light/dark themes, plus drop-in custom CSS support
 - 📁 **Workspace Mode** — File tree sidebar, fuzzy search, Git status indicators
 - 🔍 **Powerful Search** — Full-text search across your entire workspace
 - 📊 **Mermaid Diagrams** — Render flowcharts, sequences, and more in fenced blocks
 - 📤 **Export Anywhere** — PDF, HTML, DOCX, EPUB, LaTeX via Pandoc
-- ⌨️ **Keyboard-First** — Vim-style philosophy, extensive shortcuts
+- ⌨️ **Keyboard-First** — Vim-style philosophy, extensive shortcuts ([Shortcuts List](docs/shortcuts.md))
 - 🌐 **Cross-Platform** — macOS, Windows, Linux (Electron)
 
 ## Screenshots
