@@ -8,6 +8,10 @@
 </h3>
 
 <p align="center">
+  <strong>English</strong> | <a href="./README_zh-CN.md">中文</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/shuqiwhat/aether/releases">Download</a> ·
   <a href="https://www.shuqihere.top/archive/open-source/aether">Docs</a> ·
   <a href="#quick-start">Quick Start</a>
