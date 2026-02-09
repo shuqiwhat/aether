@@ -39,6 +39,7 @@ Aether 是一款开源的 Markdown 编辑器，内置 AI 辅助写作功能。�
 - ✍️ **幽灵写作** — 实时 AI 补全，在你停顿时自动出现，按 Tab 键接受建议 ([详细介绍](docs/ai-features_zh-CN.md))
 - 📝 **所见即所得** — 基于 Tiptap 的真·所见即所得 Markdown 编辑，随时切换源码模式
 - 🎨 **精美主题** — 内置明亮/暗黑主题，支持自定义 CSS
+- 🔄 **Git 同步** — 简单的 Git 集成，支持定时自动备份和打开时自动拉取
 - 📁 **工作区模式** — 文件树侧边栏，模糊搜索，Git 状态指示
 - 🔍 **强大搜索** — 全局全文搜索
 - 📊 **Mermaid 图表** — 在代码块中渲染流程图、时序图等
@@ -51,11 +52,11 @@ Aether 是一款开源的 Markdown 编辑器，内置 AI 辅助写作功能。�
 <table>
   <tr>
     <td align="center"><img src="docs/images/editor.webp" width="400" /><br/><sub>幽灵写作演示</sub></td>
-    <td align="center"><img src="docs/images/workspace.png" width="400" /><br/><sub>带文件树的工作区</sub></td>
+    <td align="center"><img src="docs/images/workspace.webp" width="400" /><br/><sub>带文件树的工作区</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/images/themes.png" width="400" /><br/><sub>主题选择</sub></td>
-    <td align="center"><img src="docs/images/source.png" width="400" /><br/><sub>源码模式</sub></td>
+    <td align="center"><img src="docs/images/themes.webp" width="400" /><br/><sub>主题选择</sub></td>
+    <td align="center"><img src="docs/images/source.webp" width="400" /><br/><sub>源码模式</sub></td>
   </tr>
 </table>
 
